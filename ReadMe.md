@@ -10,7 +10,7 @@
 
 ## Output Format ##
 
-判斷結果 ( `ideal` / `diffilcult` / `out of range` )
+判斷結果 ( `ideal` / `difficult` / `out of range` )
 
 ## Sample Input ##
 ```
